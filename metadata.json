@@ -1,0 +1,6 @@
+{
+  "name": "Sun Relief Ice Cream",
+  "description": "Authentic Gujarat-crafted ice cream brand website for consumers and distributors featuring rich dairy flavours and wholesale partnership opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
